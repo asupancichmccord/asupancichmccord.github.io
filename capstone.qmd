@@ -1,6 +1,6 @@
 ---
-title: "Capstone: [Your Capstone Title]"
-subtitle: "A one-sentence hook: what you built and who it helps."
+title: "Capstone: Analyzing Biodiversity and Wildfire Outcomes on Indigenous and Non-Indigenous Lands Across Oregon"
+subtitle: "This is still being activly changed - A one-sentence hook: what you built and who it helps."
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, machine-learning, R]
@@ -17,9 +17,9 @@ should read this one. Replace every bracketed placeholder, then delete this note
 > We integrated **\[data sources\]** into **\[dataset\]** so that
 > **\[stakeholder\]** can **\[decision they can now make\]**.
 
-**Role:** \[e.g. I led the data pipeline and validation.\]
-**Team:** \[solo, or name + link teammates.\]
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+**Role:** \[Will update later: e.g. I led the data pipeline and validation.\]
+**Team:** \ Spencer Fiden[will add link teammates.\]
+**Repo:** [github.com/asupancichmccord/Fiden-Supancich-McCord](https://github.com/asupancichmccord/Fiden-Supancich-McCord)
 
 ## The question
 
