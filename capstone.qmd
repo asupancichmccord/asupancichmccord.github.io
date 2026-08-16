@@ -7,7 +7,7 @@ categories: [capstone, machine-learning, R, Python]
 toc: true
 ---
 
-## The one-liner
+## The One-Liner
 
 We integrated publicly available ecological and geospatial biodiversity, historical vegetation, wildfire, and Indigenous land datasets into a statewide 5 km x 5 km geospatial dataset for Oregon so that Tribal governments, land managers, conservation organizations, and researchers can compare landscape-scale patterns in forest composition and wildfire severity to identify areas where further research may be warranted.
 
@@ -15,11 +15,11 @@ We integrated publicly available ecological and geospatial biodiversity, histori
 **Team:** \ Spencer Fiden (https://github.com/sfiden)\
 **Repo:** [github.com/asupancichmccord/Fiden-Supancich-McCord](https://github.com/asupancichmccord/Fiden-Supancich-McCord)
 
-## The question
+## The Question
 
 Wildfire is an increasing ecological and public-safety concern in Oregon, while Indigenous stewardship and prescribed fire are receiving renewed attention as potential components of wildfire resilience. We asked whether publicly available data showed meaningful differences in forest composition or wildfire severity characteristics across federally recognized Indigenous and non-Indigenous lands, and whether vegetation, previous fire history, or prescribed burns were associated with wildfire severity.
 
-## The data
+## The Data
 
 The project combined five major public data sources: LandMark for federally recognized Indigenous land boundaries, GBIF for species observations, Oregon Historic Vegetation for reconstructed historical vegetation, NIFC InFORM for fire occurrence and prescribed burns, and NIFC IFPH for wildfire perimeters. The sources ranged from 23,571 GBIF observations and 43,628 historical vegetation polygons to more than 1.2 million national InFORM records and 4,263 Oregon IFPH records. 
 
@@ -31,7 +31,7 @@ We then transformed the sources into a common 5 km × 5 km grid covering Oregon.
 
 ![Plant sums (all species) across Oregon.](projects/capstone/sum_plants.png){fig-alt="capstone plant map figure" width="90%"}
 
-## The approach
+## The Approach
 
 We approached the problem from three complementary angles.
 
@@ -58,15 +58,15 @@ Cells with previous prescribed burns tended to have a greater proportion of smal
 
 The strongest signal in the data was not that Indigenous land designation itself determined biodiversity or wildfire severity. Instead, vegetation characteristics and previous fire history were more consistently associated with wildfire outcomes, while prescribed-burn history showed a smaller association with the distribution of fire sizes. The project also demonstrated that heterogeneous public ecological datasets can be combined into a reproducible statewide framework—but that framework remains constrained by incomplete fire records, uneven biodiversity observations, and the limited ecological information captured by the available datasets.
 
-## Limitations & future work
+## Limitations & Future Work
 
 Ecological metrics should be interpreted as proxies rather than comprehensive biodiversity measures. Analyses were limited to seven focal species, and GBIF observations are concentrated in more accessible, populated areas, creating geographic sampling bias. Further, the fire data exhibit missingness in individual records, and not all records exist across IFPH & InFORM, or align in reported values. It is also likely that prescribed burns that occurred in this scope were not officially recorded, as going through official channels may incur costs and legal ramifications. Future work should incorporate standardized biodiversity surveys, environmental variables, and collaboration with Tribal Nations.
 
-## Ethics & responsible use
+## Ethics & Responsible Use
 
 This project uses only publicly available ecological and geospatial datasets and contains no personally identifiable information (PII) or human subjects data. Sensitive metadata (e.g., observer names and tribal identifiers) are excluded from analysis and redistribution. To protect Indigenous communities, there is recognition that public datasets cannot fully represent Indigenous knowledge or stewardship practices and interpret results through the CARE (Collective Benefit, Authority to Control, Responsibility, Ethics) principles. Analyses are framed as observational, avoiding unsupported causal claims or generalizations across Indigenous nations. Landscape-level ecological patterns are reported rather than cultural conclusions and avoid deficit-based comparisons of land management systems. Findings are to be presented to support collaborative wildfire stewardship while respecting Indigenous rights and data sovereignty. See Data Invetory table in full write-up for explicit licensing details.
 
-## The full write-up
+## The Full Write-Up
 
 [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
 
