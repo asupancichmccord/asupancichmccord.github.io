@@ -5,12 +5,6 @@ toc: true
 
 [📄 Download PDF](assets/resume.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
-:::
-
 <iframe src="assets/resume.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
@@ -18,29 +12,81 @@ web summary below is what recruiters skim; the PDF is what they download.
 ## Education
 
 **M.S. Data Science** — Willamette University, Salem, OR *(2026)*
-**B.S. \[Your Major\]** — \[Your University\], \[City\] *(\[year\])*
+
+**B.S. Data Science** — Willamette University, Salem, OR *(2026)*
 
 ## Skills
 
 | Area | Tools |
 |------|-------|
-| **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| **Data Management** | Data cleaning, validation, quality assurance, structured datasets |  
+| **Data Visualization and Communication** | ggplot, dashboards, stakeholder presentations | 
+| **Programming & Tools** | R (advanced), Python (intermediate), SQL (intermediate), Excel, Office 365 |
+| **Data Analysis** | Statistical modeling, hypothesis testing, regression analysis, experimental design (DOE) |
+| **Workflow** | Git, Quarto, Docker |
+| **Other** | Survey design, observational studies, data storytelling, user-focused communication |
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Data Management Intern** — Salem Multicultural Institute, Salem OR *(Apr 2026 - Aug 2026)*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- Maintained and organized organizational datasets to support reporting and decision-making.
+
+- Conducted data validation and quality assurance checks to improve data accuracy.
+
+- Prepared reports and analyses for organizational stakeholders.
+
+- Analyzed engagement data to identify trends and support strategic planning initiatives.
+
+
+**Planning & Community Development Intern** — City of Santa Cruz, Santa Cruz, CA *(Jun - Aug 2024 / 25)*
+
+- Performed data validation and quality assurance reviews on municipal records to ensure completeness and 
+accuracy.
+
+- Maintained and organized electronic records using OnBase and TRAKiT database systems.
+
+- Entered, updated, and verified information across digital recordkeeping systems.
+
+- Collaborated with staff across departments to support data requests, documentation, and public-sector operations. 
+
+
+**Queer Student Union Executive Team** — Willamette University, Salem, OR *(Jan 2024 - May 2026)*
+
+- Developed and delivered clear written and visual communications for events and outreach.
+
+- Collaborated across teams to coordinate initiatives, strengthening teamwork and communication skills.
+
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Oregon on Fire: Fire Severity Capstone Project** — see the [Capstone page](capstone.qmd) for the full story.
 
-- One line on the problem and your role.
+- Organized, cleaned, and maintained large datasets from multiple public sources, ensuring accuracy and consistency.
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
+across records according to documented criteria.
+
+- Maintained clear documentation of data sources, preparation methods, and quality assurance procedures to support 
+transparency, ethical considerations, and appropriate use of public datasets.
+
+- Prepared reports, visualizations, and presentations that communicated findings clearly to diverse audiences.
+
+
+**Wildfire & Drought Data Management Project** — Fundamentals of Data Engineering
+
+- Combined and organized information from multiple public data sources using PostgreSQL to create a consistent 
+dataset for analysis and reporting.
+
+- Performed data validation and quality checks to identify and resolve inconsistencies across records.
+
+- Prepared summaries, documentation, and reports to support clear communication of findings and data limitations.
+
+
+**Community Engagement Data Analysis** — Designing Persuasive Campaigns
+
+- Collected, organized, and analyzed survey data to understand community engagement patterns.
+
+- Prepared reports and visual materials to communicate findings to stakeholders.
+
+- Recommended improvements based on data insights and community feedback.
+

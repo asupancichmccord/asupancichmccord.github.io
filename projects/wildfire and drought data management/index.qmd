@@ -1,0 +1,24 @@
+---
+title: "Wildfire & Drought Data Management Project"
+description: "PostgreSQL Project to Assess Community-Level Natural Disaster Vulnerability by Joining Discrete Datasets"
+date: 2026-04-29
+image: county_mismatch.png
+categories: [course-work, SQL, visualization]
+---
+
+## What it is
+
+As wildfires and droughts are increasing across California, it is important to note that their impacts are not evenly distributed and some communities face greater social and economic barriers to recovery. We combined four distanct datasets *Wildfire Risk to Communities* (USDA), *U.S. Drought Monitor - Comprehensive Statistics* (U.S. Drought Monitor), *American Community Survey (ACS)* (United States Census Bureau), and *Community Resilience Estimates Datasets* (United States Census Bureau), we assessed how social vulnerability relates to wildfire and drought exposure, and which California counties exhibit the greatest mismatch between hazard risk and socioeconomic capacity.
+
+
+## What I did
+
+- Organized, cleaned, and maintained large datasets from multiple public sources, ensuring accuracy and consistency
+across records according to documented criteria. \
+- Maintained clear documentation of data sources, preparation methods, and quality assurance procedures to support 
+transparency, ethical considerations, and appropriate use of public datasets. \
+- Prepared reports, visualizations, and presentations that communicated findings clearly to diverse audiences.
+
+## Links
+
+- 📊 **Slides / poster:** \https://docs.google.com/presentation/d/1D6EzrVHxHNfUDTBI0-9J9nYWgnJVWo53n7OTSw3ZiJE/edit?usp=sharing
