@@ -16,9 +16,9 @@ Actions**, so you never commit build output.
 
 Click **Use this template → Create a new repository**.
 
-**Name it exactly `your_github_username.github.io`** (your real username). That
+**Name it exactly `asupancichmccord.github.io`**. That
 special name publishes your site at the clean root URL
-`https://your_github_username.github.io/` — no `/portfolio` suffix. Keep it
+`https://asupancichmccord.github.io/` — no `/portfolio` suffix. Keep it
 **public**.
 
 ### 2. Turn on GitHub Actions deployment (one-time)
@@ -34,8 +34,8 @@ renders the site and deploys it.
 ### 3. Clone and preview locally
 
 ```bash
-git clone https://github.com/your_github_username/your_github_username.github.io.git
-cd your_github_username.github.io
+git clone https://github.com/asupancichmccord/asupancichmccord.github.io.git
+cd asupancichmccord.github.io
 quarto preview
 ```
 
@@ -63,7 +63,7 @@ git push
 ```
 
 Watch the **Actions** tab. When the run goes green, your site is live at
-`https://your_github_username.github.io/`. From now on, **push is publish** —
+`https://asupancichmccord.github.io/`. From now on, **push is publish** —
 that's the whole update cycle.
 
 ## Running code in your pages (freeze)
